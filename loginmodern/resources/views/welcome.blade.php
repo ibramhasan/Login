@@ -50,6 +50,7 @@
 
 				<div class="container-login100-form-btn">
 					<button class="login100-form-btn">
+						<!-- <router-link to="/discovery">Sign In</router-link> -->
 						<a href="/discovery"> Sign In </a>
 					</button>
 				</div>

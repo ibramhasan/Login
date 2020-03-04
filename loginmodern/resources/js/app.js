@@ -8,6 +8,25 @@ require('./bootstrap');
 
 window.Vue = require('vue');
 
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+
+Vue.use(VueRouter)
+
+
+import index from "./components/Index.vue";
+import dis from './components/Dis.vue';
+
+
+Vue.component('example-component', require('./components/ExampleComponent.vue').default)
+
+const routes = [
+    {path: "/dis", component: Discovery}
+]
+
+const router = new VueRouter({
+
+})
 /**
  * The following block of code may be used to automatically register your
  * Vue components. It will recursively scan this directory for the Vue
