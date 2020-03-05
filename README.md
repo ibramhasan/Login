@@ -14,3 +14,5 @@ Fifth, I open a lot of documentation on Bootstrap, Vue.js, Daengweb, Youtube, an
 To understand TDD, I searched a lot at Medium.com, many covered TDD completely. 
 
 In conducting trials with TDD, several times it was red, but strangely it was once yellow. Even though the yellow color is not in the TDD trial process, it is quite confusing. After that, the trial using TDD successfully turned green
+
+
