@@ -1,4 +1,7 @@
-In this application I use Laravel 5.8.
+In this application i use Laravel 5.8.
+
+To open this application, you can directly download my repository by instructing git clone in CMD or terminal. Then, run the composer install, then run the command php artisan key:generate. Finally, run the command php artisan:serve.
+I don't use a database or mysql, so it's not too troublesome to run it, i think that's the easiest. I tried using free hosting from github, but it didn't work. I'm so sorry.
 
 Then, to see more in this application, you can press the singin button on it until the writing sign in changes color to orange.
 
